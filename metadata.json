@@ -1,0 +1,6 @@
+{
+  "name": "SG Live Bus Arrival",
+  "description": "Live Singapore bus arrival timings from LTA DataMall with real-time arrivals and health check.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
